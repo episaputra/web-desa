@@ -2,5 +2,5 @@ web desa revolusi
 -konsisten untuk membuat konten 2x seminggu
 - membuat platfrom untuk pengelolaan vidio
 - membuat forum diskusi
-- membuat whork shop
 -menggunakan framework laravel
+-membuat vlog
